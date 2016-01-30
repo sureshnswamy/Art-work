@@ -1,0 +1,14 @@
+canvas {
+    /*border: 1px solid #000;*/
+ 	/*background-color: #00ffff;*/
+    margin:0;
+    padding:0;
+    position:relative;
+    left:0px;
+    top:0px;
+}
+
+/*#imgCanvas {
+	width: 640px;
+ 	height: 480px;
+} */
